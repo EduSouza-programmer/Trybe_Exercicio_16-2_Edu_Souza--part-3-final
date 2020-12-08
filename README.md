@@ -316,7 +316,7 @@ export default connect(mapStateToProps, mapDispatchToProps)(TrafficSignal);
 </details>
 
 <p align="right">
-   <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_3-3_Edu_Souza//parte-1/challenge_1-o_modelo_boxer.html">
+   <a href="https://edusouza-programmer.github.io/Trybe_Exercicio_16-2_Edu_Souza--part-3-final/">
     <img alt="Go index.html" src="https://img.shields.io/badge/Go-app_react-orange">
     </a>&nbsp;
     <a href="#clipboard-Sumário">
