@@ -46,7 +46,7 @@ Você irá desenvolver 3 exercícios para solidificar seus conhecimentos de Redu
 
 ### :clipboard: Sumário
 
-- <p><a href="#3"> :pushpin: 3.</a> Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA;</p>
+- <p><a href="#3"> :pushpin: 3.</a> E para finalizar iremos combinar ambos os exercícios em um só, utilizando o combineReducers;</p>
 
 ## :books: Exercícios
 
